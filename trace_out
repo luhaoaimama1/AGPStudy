@@ -1,0 +1,20 @@
+// class version 55.0 (55)
+// access flags 0x31
+public final class com/example/ExampleClass {
+
+  // compiled from: ExampleClass.kt
+
+  @Lkotlin/Metadata;(mv={1, 4, 2}, bv={1, 0, 3}, k=1, d1={"\u0000\u000c\n\u0002\u0018\u0002\n\u0002\u0010\u0000\n\u0002\u0008\u0002\u0018\u00002\u00020\u0001B\u0005\u00a2\u0006\u0002\u0010\u0002\u00a8\u0006\u0003"}, d2={"Lcom/example/ExampleClass;", "", "()V", "app_debug"})
+
+  // access flags 0x1
+  public <init>()V
+   L0
+    LINENUMBER 18 L0
+    ALOAD 0
+    INVOKESPECIAL java/lang/Object.<init> ()V
+    RETURN
+   L1
+    LOCALVARIABLE this Lcom/example/ExampleClass; L0 L1 0
+    MAXSTACK = 1
+    MAXLOCALS = 1
+}
